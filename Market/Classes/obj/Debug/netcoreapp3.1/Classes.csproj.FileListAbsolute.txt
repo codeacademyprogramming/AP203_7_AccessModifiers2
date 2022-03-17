@@ -1,0 +1,10 @@
+C:\Users\Eagha\Desktop\CodeLessons\AP203\7. 17-03-2022\Market\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\7. 17-03-2022\Market\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\7. 17-03-2022\Market\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\7. 17-03-2022\Market\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\7. 17-03-2022\Market\Classes\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\AP203\7. 17-03-2022\Market\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\7. 17-03-2022\Market\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\AP203\7. 17-03-2022\Market\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\7. 17-03-2022\Market\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\7. 17-03-2022\Market\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
